@@ -1,0 +1,50 @@
+  392  cd Fintech-Workspace
+  393  ls
+  394  cd Module 3
+  395  cd ..
+  396  cd Desktop/Fintech-Workspace
+  397  cd..
+  398  cd ..
+  399  cd Desktop
+  400  pwd
+  401  ls
+  402  cd Fintech-Workspace
+  403  ls
+  404  cd Module_three
+  405  ls
+  406  cd 01_Importing_the_VIX/
+  407  ls
+  408  cd ..
+  409  ls
+  410  cd 01_Importing_the_VIX/
+  411  conda activate dev
+  412  juypter lab
+  413  cd ..
+  414  cd 01_Importing_the_VIX/
+  415  jupyter lab
+  416  conda activate dev
+  417  jupyter lab
+  418  cd 
+  419  cd Desktop
+  420  mkdir Projects
+  421  cd Projects
+  422  cd ..
+  423  cd Projects/
+  424  git clone git@github.com:simonab57/Loan-Qualifier-App.git
+  425  git branch
+  426  git innit
+  427  git init
+  428  git branch
+  429  ls
+  430  cd Loan-Qualifier-App/
+  431  git branch
+  432  git status
+  433  git add.
+  434  git add .
+  435  git status
+  436  git commit -m "Here is my code for a loan qualifier app"
+  437  git push origin main
+  438  code .
+  439  code .
+  440  ls
+  441  history 50 > terminal_history.txt
